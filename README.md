@@ -1,6 +1,8 @@
 # weflo_prepare
 위플로 면접준비 (*미완성*)
 
+P.I.D | 비례, 적분, 미분 (Proportional, Integral, Derivative)
+
 ## 목차
 
 * [자기 소개](#자기-소개)
